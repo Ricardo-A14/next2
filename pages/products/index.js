@@ -44,4 +44,4 @@ const Products = () => {
     )
 }
 
-export default Notas;
+export default Products;
